@@ -12,7 +12,7 @@ header, footer {
 }
 
 img {
-    max-width: 50%;
+    max-width: 70%;
     height: auto;
-    border-radius: 4px;
+    border-radius: 10px;
 }
